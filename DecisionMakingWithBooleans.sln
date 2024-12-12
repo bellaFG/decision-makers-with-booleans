@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecisionMakingWithBooleans", "DecisionMakingWithBooleans.csproj", "{FF85C40B-A158-24BD-88A6-22F96484B0CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF85C40B-A158-24BD-88A6-22F96484B0CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF85C40B-A158-24BD-88A6-22F96484B0CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF85C40B-A158-24BD-88A6-22F96484B0CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF85C40B-A158-24BD-88A6-22F96484B0CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D0FCBAB-4C5B-43F4-AEA3-1544132C021C}
+	EndGlobalSection
+EndGlobal
